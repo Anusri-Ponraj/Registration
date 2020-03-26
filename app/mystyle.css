@@ -1,0 +1,49 @@
+
+body {
+	/*  background-image: url("https://farm6.staticflickr.com/5695/22447126166_2db1545ed4_b.jpg");*/
+ 
+ background-color: #e0d8cc;
+
+}
+header{
+	width: 100%;
+	height: 80px;
+	background-color: #cc6533;
+	display: inline-block;
+}
+
+header a:hover{
+	color: orange;
+}
+h1{
+	margin: 13px 15px 12px 13px;
+
+	color:black
+}
+input{
+	border: 1px solid #cc6533;
+  border-radius: 4px 0px 0px 4px;
+}
+form{
+	margin: 47px 0px 0px 34px;
+}
+#container{
+	margin-left: 11px;
+	width: 500px;
+	height: 300px;
+	border-radius: 4px;
+	border: 1px solid #cc6533
+}
+button{
+	border-radius: 4px;
+    border: none;
+    padding: 4px 9px 5px 10px;
+    margin: 6px 0px 0px 452px;
+    background-color: #cc6533;
+}
+select{
+	border-radius: 0px 4px 4px 0px;
+    border: none;
+    background-color: #cc6533;
+    padding: 1px;
+}
